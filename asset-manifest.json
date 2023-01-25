@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/REAC_AppTareas/static/css/main.6573aa65.css",
+    "main.js": "/REAC_AppTareas/static/js/main.e79c2281.js",
+    "static/media/freecodecamp-logo.png": "/REAC_AppTareas/static/media/freecodecamp-logo.5486935b905c7949600c.png",
+    "index.html": "/REAC_AppTareas/index.html",
+    "main.6573aa65.css.map": "/REAC_AppTareas/static/css/main.6573aa65.css.map",
+    "main.e79c2281.js.map": "/REAC_AppTareas/static/js/main.e79c2281.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6573aa65.css",
+    "static/js/main.e79c2281.js"
+  ]
+}
