@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+https://leonelvalencia.github.io/REAC_AppTareas/
+--------------------------------------------------------------------------------------------------------------------------
+
+I show a screenshot of the application working:
+if you click on a task it is marked as finished, it changes color and the text is crossed out
+
+[![app-tareas.png](https://i.postimg.cc/sXfgRzJN/app-tareas.png)](https://postimg.cc/zLMrn96C)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,10 +76,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
---------------------------------------------------------------------------------------------------------------------------
-
-I show a screenshot of the application working:
-if you click on a task it is marked as finished, it changes color and the text is crossed out
-
-[![app-tareas.png](https://i.postimg.cc/sXfgRzJN/app-tareas.png)](https://postimg.cc/zLMrn96C)
